@@ -1,4 +1,4 @@
-git clonehttps://github.com/HUNTERKINGCY78/IGTELEPHIS
+git clone https://github.com/HUNTERKINGCY78/IGTELEPHIS
 
 cd  IGTELEPHIS
 
